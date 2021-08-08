@@ -1,7 +1,7 @@
 # Readme
 Basket Services for Trendyol
 
-Tech Stack
+Tech Stack \n
 Spring Boot
 Kafka
 PGSQL
@@ -11,4 +11,7 @@ Docker
 Swagger
 Junit
 and more :)
+
+![alt text](ty-shopping-cart/Readme/blob/main/structure.png?raw=true)
+
 
