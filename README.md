@@ -1,7 +1,7 @@
 # Readme
 Basket Services for Trendyol
 
-Tech Stack \n
+Tech Stack
 * Spring Boot
 * Kafka
 * PGSQL
