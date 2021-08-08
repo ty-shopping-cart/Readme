@@ -2,16 +2,16 @@
 Basket Services for Trendyol
 
 Tech Stack \n
-Spring Boot
-Kafka
-PGSQL
-CouchBase
-Cassandra
-Docker
-Swagger
-Junit
-and more :)
+* Spring Boot
+* Kafka
+* PGSQL
+* CouchBase
+* Cassandra
+* Docker
+* Swagger
+* Junit
+* and more :)
 
-![alt text](ty-shopping-cart/Readme/blob/main/structure.png?raw=true)
+![structure](https://github.com/ty-shopping-cart/Readme/blob/main/structure.png?raw=true)
 
 
