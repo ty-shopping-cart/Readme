@@ -1,7 +1,6 @@
-# Readme
-Basket Services for Trendyol
+# Basket Services for Trendyol
 
-Tech Stack
+## Tech Stack
 * Spring Boot
 * Kafka
 * PGSQL
@@ -12,6 +11,8 @@ Tech Stack
 * Junit
 * and more :)
 
+## Microservice Architecture
 ![structure](https://github.com/ty-shopping-cart/Readme/blob/main/structure.png?raw=true)
+
 
 
